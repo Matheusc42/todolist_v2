@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
-const dbConfig =
-  "mongodb+srv://admin:JfBEKvPrYJ6l4g3M@treinonodejs.0dqhqhn.mongodb.net/tasks?retryWrites=true&w=majority";
+const dbConfig = "Here you can put your Connection String to your MongoDB database ^^"
+  
 
 const connection = mongoose.connect(dbConfig, {
   useNewUrlParser: true,
