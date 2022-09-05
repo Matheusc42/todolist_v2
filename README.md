@@ -29,4 +29,5 @@ assim como é possível ter uma visualização geral de todas as tarefas.
  
  <hr>
  <b>Nota Importante: </b> Para não comprometer as credenciais do Banco de Dados que utilizo nos meus estudos eu retirei a URL de ligação com o Banco de Dados
- aqui do GitHub, para iniciar a aplicação é necessário ligar um banco de dados MongoDB com a aplicação.
+ aqui do GitHub, para iniciar a aplicação é necessário ligar um banco de dados MongoDB com a aplicação. <br><br>
+ Você pode colocar a sua string de conexão seguindo o seguinte caminho: todolist_v2/server/src/config/dbConfig.js.
